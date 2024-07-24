@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pablo esteban becerra gomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo esteban becerra gomez" height="30" width="40" /></a>
-<a href="https://discord.gg/pablombdtf_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pablombdtf_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pablo-esteban-a966b51aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pablo-esteban-a966b51aa/" height="30" width="40" /></a>
+<a href="https://discord.gg/554311142147751954" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="554311142147751954" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
