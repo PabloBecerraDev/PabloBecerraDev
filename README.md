@@ -16,7 +16,7 @@ approach like that of other people, to achieve a more complete vision.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/pablo-esteban-becerra-gomez-a966b51aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pablo-esteban-a966b51aa/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pablo-esteban-becerra-gomez-a966b51aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pablo-esteban-a966b51aa/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
